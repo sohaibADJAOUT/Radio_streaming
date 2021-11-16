@@ -1,0 +1,22 @@
+{
+  "Data": [
+    {
+      "ID": 53,
+      "RadioName": "AA",
+      "RadioURL": "https://stream-mz.planetradio.co.uk/planetrock.mp3",
+      "RadioDesc": "AA",
+      "RadioShortDesc": null,
+      "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-3",
+      "RadioPic": "PIC_URL"
+    },
+    {
+      "ID": 54,
+      "RadioName": "BB",
+      "RadioURL": "https://ch2.ice.infomaniak.ch/ch2-32.aac",
+      "RadioDesc": "BB",
+      "RadioShortDesc": null,
+      "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-2",
+      "RadioPic": "PIC_URL"
+    }     
+  ]
+}
